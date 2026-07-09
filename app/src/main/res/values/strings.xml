@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">assignment_2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_broadcast">Broadcast Receiver</string>
+    <string name="menu_image">Image Scale</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_audio">Audio</string>
+    <string name="battery_status_format">System Battery Level: %1$d%%</string>
+    <string name="loading_video">Streaming video... Please wait</string>
+    <string name="fetching_battery">Fetching current battery status..</string>
+    <string name="custom_broadcast_title">Enter Custom Broadcast Text Message:</string>
+    <string name="btn_fire_broadcast">Fire Custom Broadcast</string>
+    <string name="error_empty_text">Text cannot be empty!</string>
+    <string name="broadcast_step_2_title">Broadcast Step 2</string>
+    <string name="hint_broadcast_msg">Type message broadcast here…</string>
+    <string name="btn_proceed">Proceed</string>
+</resources>
